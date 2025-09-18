@@ -1,4 +1,4 @@
-//# InstagramClone // Features
+//# InstagramClone // Features ---
 login & register page
 feed page
 profile page
